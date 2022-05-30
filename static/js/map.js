@@ -215,3 +215,39 @@ function buildCharts(school) {
     Plotly.newPlot("piecharts", data, layout);
   });
 };
+
+Object.values(data['schools']).forEach((school) => {
+  // value is a dictionary for a school
+  //let gradrate = school['Percent_Grads'];
+  //grads.push(gradrate);
+  let regentsrate = school['Percent_Total_Regents_of_Cohort'];
+  regents.push(regentsrate)
+  let advancedRegentsRate = school['Percent_Advanced_Regents_of_Cohort'];
+  advancedRegents.push(advancedRegentsRate);
+  let dropoutrate = school['Percent_Dropout'];
+  dropout.push(dropoutrate);
+  let asianpercent = school['Percent_Asian_Cohort'];
+  asian.push(asianpercent);
+  let blackpercent = school['Percent_Black_Cohort'];
+  black.push(blackpercent);
+  let hispanicpercent = school['Percent_Hispanic_Cohort'];
+  hispanic.push(hispanicpercent);
+  let whitepercent = school['Percent_White_Cohort'];
+  white.push(whitepercent);
+  let nativeamericanpercent = school['Percent_Native_American_Cohort'];
+  nativeAmerican.push(nativeamericanpercent);
+  let multiracialpercent = school['Percent_Multi_Racial_Cohort'];
+  multiRacical.push(multiracialpercent);
+  let femalepercent = school['Percent_Female_Cohort'];
+  female.push(femalepercent);
+  let malepercent = school['Percent_Male_Cohort'];
+  male.push(malepercent);
+  let disadvpercent = school['Percent_Econ_Disadv_Cohort'];
+  disadv.push(disadvpercent);
+  let notdisadvpercent = school['Percent_Not_Econ_Disadv_Cohort'];
+  notDisadv.push(notdisadvpercent);
+  let swdpercent = school['Percent_SWD_Cohort'];
+  swd.push(swdpercent);
+  let notswdpercent = school['Percent_Not_SWD_Cohort'];
+  notSWD.push(notswdpercent);
+});
