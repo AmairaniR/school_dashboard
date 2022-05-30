@@ -68,20 +68,48 @@ function buildCharts(schoolName) {
     var notDisadv = firstSchool['Percent_Not_Econ_Disadv_Cohort'];
     var swd = firstSchool['Percent_SWD_Cohort'];
     var notSWD = firstSchool['Percent_Not_SWD_Cohort'];
+    var mlclass = firstSchool['Class']
 
     // Bar Chart
+
+    function classColor () {
+      if (mlclass === 2.0) {
+        return 'green';
+      }
+      if (mlclass === 1.0) {
+        return 'blue';
+      }
+      else {
+        return 'red';
+      }
+    }
+
+    function legend() {
+      if (mlclass === 2.0){
+        return 'Class 2'
+      }
+      if (mlclass === 1.0) {
+        return 'Class 1';
+      }
+      else {
+        return 'Class 0';
+      }
+    }
 
     var barData = [{
       x: ['% Grads', '% Total Regents of Cohort', '% Advanced Regents of Cohort', '% Dropout'],
       y: [grads, regents, advancedRegents, dropout],
       type: "bar",
+      marker: {
+        color: classColor()
+      },
+      name: legend()
     }];
 
     var barLayout = {
      title: "School Graduation and Testing Information",
+     showlegend: true
     };
-
-    Plotly.newPlot("bar", barData, barLayout);
 
     Plotly.newPlot("bar", barData, barLayout);
 
