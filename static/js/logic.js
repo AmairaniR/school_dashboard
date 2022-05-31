@@ -1,3 +1,39 @@
+// Map code 
+
+
+// Add console.log to check to see if our code is working.
+console.log("working");
+
+// Tile layer, Background of map
+let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
+	maxZoom: 18,
+	accessToken: API_KEY
+});
+
+// Map object with center, zoom level and default layer.
+let map = L.map('mapid', {
+	center: [40.7, -74.0],
+	zoom: 11,
+	layers: [streets]
+});
+
+d3.json("school_locations.geojson").then(function(data) {
+  console.log(data);
+    // Create GeoJSON layer
+    L.geoJson(data, {
+    	// We turn each feature into a circleMarker on the map.
+    	pointToLayer: function(feature, latlng) {
+      		return L.marker(latlng);
+        },
+      // Create popup for each circleMarker to display school name, cohort year, and location
+      onEachFeature: function(feature, layer) {
+      layer.bindPopup("School Name: " + feature.properties.School_Names);
+    }
+  }).addTo(map);
+});
+
+
 // Dropdown Menu
 
 
@@ -130,10 +166,10 @@ function buildCharts(schoolName) {
     ];
     
     var ultimiateColors = [
-      ['rgb(56, 75, 126)', 'rgb(18, 36, 37)', 'rgb(34, 53, 101)', 'rgb(36, 55, 57)', 'rgb(6, 4, 4)'],
-      ['rgb(177, 127, 38)', 'rgb(205, 152, 36)', 'rgb(99, 79, 37)', 'rgb(129, 180, 179)', 'rgb(124, 103, 37)'],
-      ['rgb(33, 75, 99)', 'rgb(79, 129, 102)', 'rgb(151, 179, 100)', 'rgb(175, 49, 35)', 'rgb(36, 73, 147)'],
-      ['rgb(146, 123, 21)', 'rgb(177, 180, 34)', 'rgb(206, 206, 40)', 'rgb(175, 51, 21)', 'rgb(35, 36, 21)']
+      ['rgb(25,25,112)', 'rgb(0,0,205)', 'rgb(0,100,0)', 'rgb(34,139,34)'],
+      ['rgb(165,42,42)', 'rgb(210,105,30)'],
+      ['rgb(255,215,0)', 'rgb(255,140,0)'],
+      ['rgb(255,0,0)', 'rgb(139,0,0)']
     ];
 
     var data = [{
@@ -198,7 +234,7 @@ function buildCharts(schoolName) {
     }];
 
     var layout = {
-      title: "Pie Charts",
+      title: "Student Demographic Info Per School",
       height: 400,
       width: 500,
       grid: {rows: 2, columns: 2}

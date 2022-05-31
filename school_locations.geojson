@@ -1,0 +1,5545 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9860332,40.7134455 ]
+    },
+    "properties": {
+    "School_Names":"ORCHARD COLLEGIATE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9842031,40.7121857 ]
+    },
+    "properties": {
+    "School_Names":"UNIVERSITY NEIGHBORHOOD HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9825277,40.7291086 ]
+    },
+    "properties": {
+    "School_Names":"EAST SIDE COMMUNITY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9907155,40.7221984 ]
+    },
+    "properties": {
+    "School_Names":"FORSYTH SATELLITE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9860534,40.7201995 ]
+    },
+    "properties": {
+    "School_Names":"MARTA VALLE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9860332,40.720088 ]
+    },
+    "properties": {
+    "School_Names":"LOWER EAST SIDE PREPARATORY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9791599,40.7195551 ]
+    },
+    "properties": {
+    "School_Names":"NEW EXPLORATIONS INTO SCIENCE, TECHNOLOGY AND MATH HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.990632,40.7221756 ]
+    },
+    "properties": {
+    "School_Names":"CASCADES HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9758609,40.7183927 ]
+    },
+    "properties": {
+    "School_Names":"BARD HIGH SCHOOL EARLY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9814014,40.7387769 ]
+    },
+    "properties": {
+    "School_Names":"47 THE AMERICAN SIGN LANGUAGE AND ENGLISH SECONDARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0013216,40.7110316 ]
+    },
+    "properties": {
+    "School_Names":"THE URBAN ASSEMBLY SCHOOL FOR EMERGENCY MANAGEMENT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9908346,40.7639993 ]
+    },
+    "properties": {
+    "School_Names":"STEPHEN T. MATHER BUILDING ARTS & CRAFTSMANSHIP HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.992438,40.7363036 ]
+    },
+    "properties": {
+    "School_Names":"THE CLINTON SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0011838,40.7112769 ]
+    },
+    "properties": {
+    "School_Names":"MANHATTAN EARLY COLLEGE SCHOOL FOR ADVERTISING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.001774,40.7109122 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY MAKER ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9922821,40.7653073 ]
+    },
+    "properties": {
+    "School_Names":"FOOD AND FINANCE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9887331,40.717876 ]
+    },
+    "properties": {
+    "School_Names":"ESSEX STREET ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9932508,40.7654144 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL OF HOSPITALITY MANAGEMENT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9940528,40.7161208 ]
+    },
+    "properties": {
+    "School_Names":"PACE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.993163,40.765536 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY SCHOOL OF DESIGN AND CONSTRUCTION, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9928016,40.7652264 ]
+    },
+    "properties": {
+    "School_Names":"FACING HISTORY SCHOOL, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9894641,40.7173735 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY ACADEMY OF GOVERNMENT AND LAW, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9895797,40.717149 ]
+    },
+    "properties": {
+    "School_Names":"LOWER MANHATTAN ARTS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.002426,40.7432281 ]
+    },
+    "properties": {
+    "School_Names":"JAMES BALDWIN SCHOOL, THE: A SCHOOL FOR EXPEDITIONARY LEARNING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0128882,40.7054423 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY SCHOOL OF BUSINESS FOR YOUNG WOMEN, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9872741,40.7354278 ]
+    },
+    "properties": {
+    "School_Names":"GRAMERCY ARTS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0050178,40.7247073 ]
+    },
+    "properties": {
+    "School_Names":"NYC ISCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0024958,40.743132 ]
+    },
+    "properties": {
+    "School_Names":"MANHATTAN BUSINESS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9903543,40.7638592 ]
+    },
+    "properties": {
+    "School_Names":"BUSINESS OF SPORTS SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.993222,40.7165187 ]
+    },
+    "properties": {
+    "School_Names":"EMMA LAZARUS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9872349,40.7354158 ]
+    },
+    "properties": {
+    "School_Names":"THE HIGH SCHOOL FOR LANGUAGE AND DIPLOMACY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9881832,40.767972 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR ENVIRONMENTAL STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9825816,40.7326687 ]
+    },
+    "properties": {
+    "School_Names":"INSTITUTE FOR COLLABORATIVE EDUCATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9886092,40.761226 ]
+    },
+    "properties": {
+    "School_Names":"PROFESSIONAL PERFORMING ARTS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9859562,40.7418014 ]
+    },
+    "properties": {
+    "School_Names":"BARUCH COLLEGE CAMPUS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0026322,40.7424197 ]
+    },
+    "properties": {
+    "School_Names":"N.Y.C. LAB SCHOOL FOR COLLABORATIVE STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.985424,40.7390084 ]
+    },
+    "properties": {
+    "School_Names":"SCHOOL OF THE FUTURE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0026533,40.7424285 ]
+    },
+    "properties": {
+    "School_Names":"N.Y.C. MUSEUM SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9533328,40.7702619 ]
+    },
+    "properties": {
+    "School_Names":"ELEANOR ROOSEVELT HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0112325,40.7046172 ]
+    },
+    "properties": {
+    "School_Names":"MILLENNIUM HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.002426,40.7432281 ]
+    },
+    "properties": {
+    "School_Names":"LANDMARK HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9826723,40.7325522 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR HEALTH PROFESSIONS AND HUMAN SERVICES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0025192,40.7431305 ]
+    },
+    "properties": {
+    "School_Names":"QUEST TO LEARN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0123569,40.7090242 ]
+    },
+    "properties": {
+    "School_Names":"LEADERSHIP AND PUBLIC SERVICE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9811402,40.7463061 ]
+    },
+    "properties": {
+    "School_Names":"MANHATTAN ACADEMY FOR ARTS & LANGUAGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9958022,40.7361516 ]
+    },
+    "properties": {
+    "School_Names":"LEGACY SCHOOL FOR INTEGRATED STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9811631,40.7464213 ]
+    },
+    "properties": {
+    "School_Names":"MURRAY HILL ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0024232,40.7432238 ]
+    },
+    "properties": {
+    "School_Names":"HUDSON HIGH SCHOOL OF LEARNING TECHNOLOGIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9873416,40.735446 ]
+    },
+    "properties": {
+    "School_Names":"INTERNATIONAL HIGH SCHOOL AT UNION SQUARE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9922881,40.7419471 ]
+    },
+    "properties": {
+    "School_Names":"MANHATTAN VILLAGE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0026279,40.7435786 ]
+    },
+    "properties": {
+    "School_Names":"BAYARD RUSTIN EDUCATIONAL COMPLEX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9893399,40.7172358 ]
+    },
+    "properties": {
+    "School_Names":"SEWARD PARK HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9596962,40.7653683 ]
+    },
+    "properties": {
+    "School_Names":"VANGUARD HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9592411,40.7656305 ]
+    },
+    "properties": {
+    "School_Names":"MANHATTAN INTERNATIONAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.987393,40.7354677 ]
+    },
+    "properties": {
+    "School_Names":"WASHINGTON IRVING HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0138422,40.7178149 ]
+    },
+    "properties": {
+    "School_Names":"STUYVESANT HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0122153,40.7091844 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL OF ECONOMICS AND FINANCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9811631,40.7464213 ]
+    },
+    "properties": {
+    "School_Names":"UNITY CENTER FOR URBAN TECHNOLOGIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9906174,40.763701 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY GATEWAY SCHOOL FOR TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9601051,40.7659527 ]
+    },
+    "properties": {
+    "School_Names":"TALENT UNLIMITED HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0018829,40.7113104 ]
+    },
+    "properties": {
+    "School_Names":"MURRY BERGTRAUM HIGH SCHOOL FOR BUSINESS CAREERS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9834165,40.7577819 ]
+    },
+    "properties": {
+    "School_Names":"JACQUELINE KENNEDY ONASSIS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9845362,40.7560092 ]
+    },
+    "properties": {
+    "School_Names":"REPERTORY COMPANY HIGH SCHOOL FOR THEATRE ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9874171,40.7354911 ]
+    },
+    "properties": {
+    "School_Names":"UNION SQUARE ACADEMY FOR HEALTH SCIENCES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9958014,40.7361513 ]
+    },
+    "properties": {
+    "School_Names":"HARVEST COLLEGIATE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9930778,40.7653419 ]
+    },
+    "properties": {
+    "School_Names":"PARK WEST HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9927627,40.7652101 ]
+    },
+    "properties": {
+    "School_Names":"MANHATTAN BRIDGES HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9893729,40.7172462 ]
+    },
+    "properties": {
+    "School_Names":"NEW DESIGN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9889371,40.7682915 ]
+    },
+    "properties": {
+    "School_Names":"INDEPENDENCE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9894724,40.7173573 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR DUAL LANGUAGE AND ASIAN STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.987478,40.735543 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY FOR SOFTWARE ENGINEERING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0002462,40.7418275 ]
+    },
+    "properties": {
+    "School_Names":"LIBERTY HIGH SCHOOL ACADEMY FOR NEWCOMERS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.020526,40.690387 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY NEW YORK HARBOR SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0061546,40.7291147 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL M560 - CITY AS SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9596962,40.7653683 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ACADEMY LABORATORY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.990437,40.7475241 ]
+    },
+    "properties": {
+    "School_Names":"SATELLITE ACADEMY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9843369,40.7326871 ]
+    },
+    "properties": {
+    "School_Names":"MANHATTAN COMPREHENSIVE NIGHT AND DAY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0128466,40.7050989 ]
+    },
+    "properties": {
+    "School_Names":"RICHARD R. GREEN HIGH SCHOOL OF TEACHING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9925831,40.7298791 ]
+    },
+    "properties": {
+    "School_Names":"HARVEY MILK HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9965141,40.7454641 ]
+    },
+    "properties": {
+    "School_Names":"THE HIGH SCHOOL OF FASHION INDUSTRIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0025033,40.7431615 ]
+    },
+    "properties": {
+    "School_Names":"HUMANITIES PREPARATORY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0050178,40.7247073 ]
+    },
+    "properties": {
+    "School_Names":"CHELSEA CAREER AND TECHNICAL EDUCATION HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9811295,40.7463214 ]
+    },
+    "properties": {
+    "School_Names":"NORMAN THOMAS HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9903637,40.7639856 ]
+    },
+    "properties": {
+    "School_Names":"HS OF GRAPHIC COMMUNICATION ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.966293,40.759375 ]
+    },
+    "properties": {
+    "School_Names":"ART AND DESIGN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9881832,40.767972 ]
+    },
+    "properties": {
+    "School_Names":"THE HIGH SCHOOL FOR CLIMATE JUSTICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9958112,40.7361554 ]
+    },
+    "properties": {
+    "School_Names":"SCHOOL FOR THE PHYSICAL CITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9846771,40.7747617 ]
+    },
+    "properties": {
+    "School_Names":"MANHATTAN THEATRE LAB HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9857955,40.7746699 ]
+    },
+    "properties": {
+    "School_Names":"THE MAXINE GREENE HS FOR IMAGINATIVE INQUIRY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9857955,40.7746699 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY SCHOOL FOR MEDIA STUDIES, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97417,40.785994 ]
+    },
+    "properties": {
+    "School_Names":"THE URBAN ASSEMBLY SCHOOL FOR GREEN CAREERS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.974391,40.7859664 ]
+    },
+    "properties": {
+    "School_Names":"THE GLOBAL LEARNING COLLABORATIVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9740479,40.7856729 ]
+    },
+    "properties": {
+    "School_Names":"INNOVATION DIPLOMA PLUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9544319,40.8025923 ]
+    },
+    "properties": {
+    "School_Names":"WADLEIGH SECONDARY SCHOOL FOR THE PERFORMING & VISUAL ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9745414,40.785861 ]
+    },
+    "properties": {
+    "School_Names":"FRANK MCCOURT HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9740956,40.7860105 ]
+    },
+    "properties": {
+    "School_Names":"LOUIS D BRANDEIS HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9960638,40.7614782 ]
+    },
+    "properties": {
+    "School_Names":"BEACON HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9851211,40.7741856 ]
+    },
+    "properties": {
+    "School_Names":"FIORELLO H. LAGUARDIA HIGH SCHOOL OF MUSIC & ART AND PERFORMING ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8959056,40.938656 ]
+    },
+    "properties": {
+    "School_Names":"MARTIN LUTHER KING JR ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9846771,40.7747617 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR LAW, ADVOCACY AND COMMUNITY JUSTICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9860564,40.7753897 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL OF ARTS AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.966688,40.7972732 ]
+    },
+    "properties": {
+    "School_Names":"EDWARD A. REYNOLDS WEST SIDE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9857843,40.7746651 ]
+    },
+    "properties": {
+    "School_Names":"MANHATTAN / HUNTER SCIENCE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9831573,40.7752064 ]
+    },
+    "properties": {
+    "School_Names":"SPECIAL MUSIC SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9541214,40.8025691 ]
+    },
+    "properties": {
+    "School_Names":"FREDERICK DOUGLASS ACADEMY II SECONDARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9451078,40.7838848 ]
+    },
+    "properties": {
+    "School_Names":"THE JUDITH S. KAYE SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9426511,40.7930489 ]
+    },
+    "properties": {
+    "School_Names":"ESPERANZA PREPARATORY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9334681,40.7992106 ]
+    },
+    "properties": {
+    "School_Names":"COALITION SCHOOL FOR SOCIAL CHANGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9334175,40.7943048 ]
+    },
+    "properties": {
+    "School_Names":"MANHATTAN CENTER FOR SCIENCE AND MATHEMATICS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9440902,40.7903273 ]
+    },
+    "properties": {
+    "School_Names":"PARK EAST HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9491583,40.7936899 ]
+    },
+    "properties": {
+    "School_Names":"CENTRAL PARK EAST HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9472438,40.792831 ]
+    },
+    "properties": {
+    "School_Names":"YOUNG WOMEN'S LEADERSHIP SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9421705,40.7851506 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY OF ENVIRONMENTAL SCIENCE SECONDARY HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9468018,40.7919316 ]
+    },
+    "properties": {
+    "School_Names":"HERITAGE SCHOOL, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9339517,40.7993154 ]
+    },
+    "properties": {
+    "School_Names":"URBAN PEACE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9475176,40.8172843 ]
+    },
+    "properties": {
+    "School_Names":"EAGLE ACADEMY FOR YOUNG MEN OF HARLEM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9384397,40.8066295 ]
+    },
+    "properties": {
+    "School_Names":"THE URBAN ASSEMBLY SCHOOL FOR GLOBAL COMMERCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.939957,40.807763 ]
+    },
+    "properties": {
+    "School_Names":"HARLEM RENAISSANCE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94745,40.817349 ]
+    },
+    "properties": {
+    "School_Names":"MOTT HALL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9560287,40.8106437 ]
+    },
+    "properties": {
+    "School_Names":"COLUMBIA SECONDARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1740254,40.6034831 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY FOR SOCIAL ACTION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9555255,40.8154776 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY SCHOOL FOR THE PERFORMING ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9389804,40.8068568 ]
+    },
+    "properties": {
+    "School_Names":"CHOIR ACADEMY OF HARLEM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9367966,40.8242589 ]
+    },
+    "properties": {
+    "School_Names":"FREDERICK DOUGLASS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9442595,40.8153498 ]
+    },
+    "properties": {
+    "School_Names":"THURGOOD MARSHALL ACADEMY FOR LEARNING AND SOCIAL CHANGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9474708,40.8174101 ]
+    },
+    "properties": {
+    "School_Names":"BREAD & ROSES INTEGRATED ARTS HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9488024,40.8213658 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR MATHEMATICS, SCIENCE AND ENGINEERING AT CITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9250405,40.8656292 ]
+    },
+    "properties": {
+    "School_Names":"INWOOD EARLY COLLEGE FOR HEALTH AND INFORMATION TECHNOLOGIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9301494,40.8608456 ]
+    },
+    "properties": {
+    "School_Names":"CITY COLLEGE ACADEMY OF THE ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9421944,40.833611 ]
+    },
+    "properties": {
+    "School_Names":"COMMUNITY HEALTH ACADEMY OF THE HEIGHTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9311065,40.8490995 ]
+    },
+    "properties": {
+    "School_Names":"WASHINGTON HEIGHTS EXPEDITIONARY LEARNING SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.925157,40.8659143 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR EXCELLENCE AND INNOVATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9262547,40.8562269 ]
+    },
+    "properties": {
+    "School_Names":"THE COLLEGE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9262547,40.8562269 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR MEDIA AND COMMUNICATIONS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9258943,40.8560809 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR LAW AND PUBLIC SERVICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9258943,40.8560809 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR HEALTH CAREERS AND SCIENCES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9497294,40.8182599 ]
+    },
+    "properties": {
+    "School_Names":"A. PHILIP RANDOLPH CAMPUS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9385319,40.8382348 ]
+    },
+    "properties": {
+    "School_Names":"GREGORIO LUPERON HIGH SCHOOL FOR SCIENCE AND MATHEMATICS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9206428,40.8137231 ]
+    },
+    "properties": {
+    "School_Names":"SOUTH BRONX PREPARATORY: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9206539,40.8132498 ]
+    },
+    "properties": {
+    "School_Names":"THE LABORATORY SCHOOL OF FINANCE AND TECHNOLOGY: X223"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9071905,40.8105027 ]
+    },
+    "properties": {
+    "School_Names":"H.E.R.O. HIGH (HEALTH, EDUCATION, AND RESEARCH OCCUPATIONS HIGH SCHOOL)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9181638,40.8098575 ]
+    },
+    "properties": {
+    "School_Names":"INTERNATIONAL COMMUNITY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9056372,40.8190333 ]
+    },
+    "properties": {
+    "School_Names":"JILL CHAIFETZ TRANSFER HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9200097,40.8184262 ]
+    },
+    "properties": {
+    "School_Names":"BRONX HAVEN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9301357,40.8156741 ]
+    },
+    "properties": {
+    "School_Names":"COMMUNITY SCHOOL FOR SOCIAL JUSTICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9113974,40.8180246 ]
+    },
+    "properties": {
+    "School_Names":"SOUTH BRONX HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9117284,40.8182782 ]
+    },
+    "properties": {
+    "School_Names":"MOTT HAVEN VILLAGE PREPARATORY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9113217,40.8182091 ]
+    },
+    "properties": {
+    "School_Names":"UNIVERSITY HEIGHTS SECONDARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9276623,40.8182828 ]
+    },
+    "properties": {
+    "School_Names":"HOSTOS-LINCOLN ACADEMY OF SCIENCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9092839,40.810911 ]
+    },
+    "properties": {
+    "School_Names":"FOREIGN LANGUAGE ACADEMY OF GLOBAL STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9200085,40.8184258 ]
+    },
+    "properties": {
+    "School_Names":"BRONX DESIGN AND CONSTRUCTION ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9229508,40.8224234 ]
+    },
+    "properties": {
+    "School_Names":"BRONX LEADERSHIP ACADEMY II HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9235453,40.8225734 ]
+    },
+    "properties": {
+    "School_Names":"NEW EXPLORERS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9235453,40.8225735 ]
+    },
+    "properties": {
+    "School_Names":"CAREERS IN SPORTS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9260609,40.8137007 ]
+    },
+    "properties": {
+    "School_Names":"THE URBAN ASSEMBLY BRONX ACADEMY OF LETTERS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9076822,40.8104399 ]
+    },
+    "properties": {
+    "School_Names":"MOTT HAVEN COMMUNITY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9200159,40.8189084 ]
+    },
+    "properties": {
+    "School_Names":"ALFRED E. SMITH CAREER AND TECHNICAL EDUCATION HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9073029,40.8102249 ]
+    },
+    "properties": {
+    "School_Names":"SAMUEL GOMPERS CAREER AND TECHNICAL EDUCATION HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9304433,40.815542 ]
+    },
+    "properties": {
+    "School_Names":"HEALTH OPPORTUNITIES HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8931157,40.8204279 ]
+    },
+    "properties": {
+    "School_Names":"BRONX STUDIO SCHOOL FOR WRITERS AND ARTISTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8563486,40.8149223 ]
+    },
+    "properties": {
+    "School_Names":"WOMEN'S ACADEMY OF EXCELLENCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8393567,40.8401731 ]
+    },
+    "properties": {
+    "School_Names":"RENAISSANCE HIGH SCHOOL FOR MUSICAL THEATER AND THE ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9879069,40.7722914 ]
+    },
+    "properties": {
+    "School_Names":"GATEWAY SCHOOL FOR ENVIRONMENTAL RESEARCH AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8556733,40.8213444 ]
+    },
+    "properties": {
+    "School_Names":"PABLO NERUDA ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8567936,40.8211879 ]
+    },
+    "properties": {
+    "School_Names":"MILLENNIUM ART ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8388837,40.8393964 ]
+    },
+    "properties": {
+    "School_Names":"PELHAM LAB HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9917475,40.75419 ]
+    },
+    "properties": {
+    "School_Names":"HOLCOMBE L RUCKER SCHOOL OF COMMUNITY RESEARCH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8393567,40.8401731 ]
+    },
+    "properties": {
+    "School_Names":"SCHUYLERVILLE PREPARATORY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8388704,40.8394785 ]
+    },
+    "properties": {
+    "School_Names":"BRONX RIVER HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.856335,40.814864 ]
+    },
+    "properties": {
+    "School_Names":"ARCHIMEDES ACADEMY FOR MATH, SCIENCE AND TECHNOLOGY APPLICATIONS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8554141,40.8215141 ]
+    },
+    "properties": {
+    "School_Names":"ANTONIA PANTOJA PREPARATORY ACADEMY: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8556733,40.8213444 ]
+    },
+    "properties": {
+    "School_Names":"BRONX COMMUNITY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8389968,40.8402023 ]
+    },
+    "properties": {
+    "School_Names":"HERBERT H. LEHMAN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8556542,40.8214475 ]
+    },
+    "properties": {
+    "School_Names":"BRONX BRIDGES HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8554141,40.8215141 ]
+    },
+    "properties": {
+    "School_Names":"ADLAI E STEVENSON HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.855545,40.8209495 ]
+    },
+    "properties": {
+    "School_Names":"GOTHAM COLLABORATIVE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8807549,40.8211129 ]
+    },
+    "properties": {
+    "School_Names":"FELISA RINCON DE GAUTIER INSTITUTE FOR LAW AND PUBLIC POLICY THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8980239,40.8176439 ]
+    },
+    "properties": {
+    "School_Names":"LONGWOOD PREPARATORY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8811252,40.8210901 ]
+    },
+    "properties": {
+    "School_Names":"BRONX ARENA HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9286789,40.6586422 ]
+    },
+    "properties": {
+    "School_Names":"SCHOOL FOR COMMUNITY RESEARCH AND LEARNING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.838045,40.8400627 ]
+    },
+    "properties": {
+    "School_Names":"WESTCHESTER SQUARE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.902849,40.821851 ]
+    },
+    "properties": {
+    "School_Names":"SCHOOL FOR TOURISM AND HOSPITALITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8811248,40.8210877 ]
+    },
+    "properties": {
+    "School_Names":"BRONX ACADEMY HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.855699,40.8213228 ]
+    },
+    "properties": {
+    "School_Names":"BRONX COMPASS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.90245,40.8217168 ]
+    },
+    "properties": {
+    "School_Names":"JANE ADDAMS HS FOR ACADEMIC CAREERS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8851194,40.8161344 ]
+    },
+    "properties": {
+    "School_Names":"NEW SCHOOL FOR ARTS AND SCIENCES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.911386,40.839614 ]
+    },
+    "properties": {
+    "School_Names":"BRONX COLLEGIATE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.897176,40.845264 ]
+    },
+    "properties": {
+    "School_Names":"EAGLE ACADEMY FOR YOUNG MEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0118394,40.703897 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY ACADEMY FOR HISTORY AND CITIZENSHIP FOR YOUNG MEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9016513,40.8393786 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY SCHOOL FOR APPLIED MATH AND SCIENCE, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9024931,40.8338772 ]
+    },
+    "properties": {
+    "School_Names":"EXIMIUS COLLEGE PREPARATORY ACADEMY: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9017915,40.8391296 ]
+    },
+    "properties": {
+    "School_Names":"MOTT HALL BRONX HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9027378,40.8335109 ]
+    },
+    "properties": {
+    "School_Names":"BRONX CENTER FOR SCIENCE AND MATHEMATICS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9015445,40.8395651 ]
+    },
+    "properties": {
+    "School_Names":"VALIDUS PREPARATORY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9140646,40.6698651 ]
+    },
+    "properties": {
+    "School_Names":"LEADERSHIP INSTITUTE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9045274,40.8273076 ]
+    },
+    "properties": {
+    "School_Names":"MORRIS ACADEMY FOR COLLABORATIVE STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9174939,40.8282932 ]
+    },
+    "properties": {
+    "School_Names":"BRONX EARLY COLLEGE ACADEMY FOR TEACHING & LEARNING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9160047,40.8432195 ]
+    },
+    "properties": {
+    "School_Names":"COMPREHENSIVE MODEL SCHOOL PROJECT M.S. 327"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9113888,40.8396259 ]
+    },
+    "properties": {
+    "School_Names":"DREAMYARD PREPARATORY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9156856,40.849316 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY FOR LANGUAGE AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9035534,40.8269334 ]
+    },
+    "properties": {
+    "School_Names":"BRONX INTERNATIONAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9045274,40.8273076 ]
+    },
+    "properties": {
+    "School_Names":"SCHOOL FOR EXCELLENCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.911386,40.8396545 ]
+    },
+    "properties": {
+    "School_Names":"BRONX HIGH SCHOOL OF BUSINESS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9111588,40.8398672 ]
+    },
+    "properties": {
+    "School_Names":"BRONX HIGH SCHOOL FOR MEDICAL SCIENCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9111588,40.8398672 ]
+    },
+    "properties": {
+    "School_Names":"JONATHAN LEVIN HS FOR MEDIA AND COMMUNICATIONS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9188614,40.8274689 ]
+    },
+    "properties": {
+    "School_Names":"BRONX SCHOOL FOR LAW, GOVERNMENT AND JUSTICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9043324,40.8334855 ]
+    },
+    "properties": {
+    "School_Names":"FREDERICK DOUGLASS ACADEMY III SECONDARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9031401,40.8434363 ]
+    },
+    "properties": {
+    "School_Names":"BRONX LEADERSHIP ACADEMY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9045274,40.8273076 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR VIOLIN AND DANCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9117717,40.8396153 ]
+    },
+    "properties": {
+    "School_Names":"CLAREMONT INTERNATIONAL HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9087618,40.8488295 ]
+    },
+    "properties": {
+    "School_Names":"YOUNG WOMEN'S LEADERSHIP SCHOOL OF THE BRONX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.913605,40.8877008 ]
+    },
+    "properties": {
+    "School_Names":"RIVERDALE / KINGSBRIDGE ACADEMY (MIDDLE SCHOOL / HIGH SCHOOL 141)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9135665,40.8777961 ]
+    },
+    "properties": {
+    "School_Names":"BRONX ENGINEERING AND TECHNOLOGY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8969966,40.8545104 ]
+    },
+    "properties": {
+    "School_Names":"THEATRE ARTS PRODUCTION COMPANY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9016086,40.8756817 ]
+    },
+    "properties": {
+    "School_Names":"THE MARIE CURIE SCHOOL FOR MEDICINE, NURSING, AND HEALTH PROFESSIONS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8883411,40.8599092 ]
+    },
+    "properties": {
+    "School_Names":"WEST BRONX ACADEMY FOR THE FUTURE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8826434,40.8555424 ]
+    },
+    "properties": {
+    "School_Names":"BRONX ACADEMY FOR SOFTWARE ENGINEERING (BASE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8964878,40.8701132 ]
+    },
+    "properties": {
+    "School_Names":"KINGSBRIDGE INTERNATIONAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9137832,40.8778267 ]
+    },
+    "properties": {
+    "School_Names":"BRONX SCHOOL OF LAW AND FINANCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8934806,40.8481654 ]
+    },
+    "properties": {
+    "School_Names":"PROVIDING URBAN LEARNERS SUCCESS IN EDUCATION HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8969425,40.8704419 ]
+    },
+    "properties": {
+    "School_Names":"INTERNATIONAL SCHOOL FOR LIBERAL ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8875851,40.8812165 ]
+    },
+    "properties": {
+    "School_Names":"BRONX COLLABORATIVE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8868091,40.8815591 ]
+    },
+    "properties": {
+    "School_Names":"WORLD VIEW HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9112953,40.8790763 ]
+    },
+    "properties": {
+    "School_Names":"IN-TECH ACADEMY (M.S. / HIGH SCHOOL 368)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8882078,40.859837 ]
+    },
+    "properties": {
+    "School_Names":"KNOWLEDGE AND POWER PREPARATORY ACADEMY INTERNATIONAL HIGH SCHOOL (KAPPA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9128109,40.8770374 ]
+    },
+    "properties": {
+    "School_Names":"ENGLISH LANGUAGE LEARNERS AND INTERNATIONAL SUPPORT PREPARATORY ACADEMY (ELLIS)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9118711,40.8394459 ]
+    },
+    "properties": {
+    "School_Names":"WILLIAM H TAFT HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.897646,40.8706673 ]
+    },
+    "properties": {
+    "School_Names":"WALTON HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.897505,40.8707784 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR TEACHING AND THE PROFESSIONS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8880163,40.8596644 ]
+    },
+    "properties": {
+    "School_Names":"BELMONT PREPARATORY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.888359,40.859085 ]
+    },
+    "properties": {
+    "School_Names":"THEODORE ROOSEVELT HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8882002,40.859836 ]
+    },
+    "properties": {
+    "School_Names":"FORDHAM HIGH SCHOOL FOR THE ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8882672,40.8598708 ]
+    },
+    "properties": {
+    "School_Names":"FORDHAM LEADERSHIP ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.888067,40.8596908 ]
+    },
+    "properties": {
+    "School_Names":"BRONX HIGH SCHOOL FOR LAW AND COMMUNITY SERVICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8868206,40.8815104 ]
+    },
+    "properties": {
+    "School_Names":"DEWITT CLINTON HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8974495,40.8708507 ]
+    },
+    "properties": {
+    "School_Names":"CELIA CRUZ BRONX HIGH SCHOOL OF MUSIC, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8913054,40.8779214 ]
+    },
+    "properties": {
+    "School_Names":"THE BRONX HIGH SCHOOL OF SCIENCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.913386,40.8776412 ]
+    },
+    "properties": {
+    "School_Names":"JOHN F KENNEDY HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.913269,40.8776626 ]
+    },
+    "properties": {
+    "School_Names":"MARBLE HILL HIGH SCHOOL FOR INTERNATIONAL STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8826606,40.8554177 ]
+    },
+    "properties": {
+    "School_Names":"CROTONA INTERNATIONAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.91333,40.8776931 ]
+    },
+    "properties": {
+    "School_Names":"BRONX THEATRE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8974623,40.870834 ]
+    },
+    "properties": {
+    "School_Names":"DISCOVERY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8826994,40.8553415 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR ENERGY AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8825928,40.8554629 ]
+    },
+    "properties": {
+    "School_Names":"GRACE DODGE CAREER AND TECHNICAL EDUCATION HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8950764,40.8746797 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL OF AMERICAN STUDIES AT LEHMAN COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8330379,40.8740132 ]
+    },
+    "properties": {
+    "School_Names":"BRONX HEALTH SCIENCES HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8614302,40.8755648 ]
+    },
+    "properties": {
+    "School_Names":"BRONX HIGH SCHOOL FOR WRITING AND COMMUNICATION ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8614429,40.8755689 ]
+    },
+    "properties": {
+    "School_Names":"BRONX LAB SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8538228,40.8879842 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY FOR SCHOLARSHIP AND ENTREPRENEURSHIP: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8611946,40.8754718 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL OF COMPUTERS AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8599755,40.8603477 ]
+    },
+    "properties": {
+    "School_Names":"COLLEGIATE INSTITUTE FOR MATH AND SCIENCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8614249,40.8755631 ]
+    },
+    "properties": {
+    "School_Names":"BRONX ACADEMY OF HEALTH CAREERS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8599839,40.8600984 ]
+    },
+    "properties": {
+    "School_Names":"ASTOR COLLEGIATE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8603192,40.859904 ]
+    },
+    "properties": {
+    "School_Names":"CHRISTOPHER COLUMBUS HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8644859,40.8517393 ]
+    },
+    "properties": {
+    "School_Names":"BRONX HIGH SCHOOL FOR THE VISUAL ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8614399,40.8755679 ]
+    },
+    "properties": {
+    "School_Names":"EVANDER CHILDS HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8328179,40.8741473 ]
+    },
+    "properties": {
+    "School_Names":"HARRY S TRUMAN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8599793,40.860235 ]
+    },
+    "properties": {
+    "School_Names":"BRONXDALE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8599762,40.8603265 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL OF LANGUAGE AND INNOVATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8529037,40.8880411 ]
+    },
+    "properties": {
+    "School_Names":"NEW WORLD HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8528001,40.888008 ]
+    },
+    "properties": {
+    "School_Names":"THE BRONXWOOD PREPARATORY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9404664,40.7119031 ]
+    },
+    "properties": {
+    "School_Names":"GLOBAL ENTERPRISE HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8599761,40.8603308 ]
+    },
+    "properties": {
+    "School_Names":"PELHAM PREPARATORY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8614399,40.8755679 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR CONTEMPORARY ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8614327,40.8755654 ]
+    },
+    "properties": {
+    "School_Names":"BRONX AEROSPACE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8773634,40.8321853 ]
+    },
+    "properties": {
+    "School_Names":"MOTT HALL V"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9006359,40.8274393 ]
+    },
+    "properties": {
+    "School_Names":"NEW DAY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8558,40.708753 ]
+    },
+    "properties": {
+    "School_Names":"METROPOLITAN HIGH SCHOOL, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8907414,40.8363157 ]
+    },
+    "properties": {
+    "School_Names":"EXPLORATIONS ACADEMY H.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9886092,40.761226 ]
+    },
+    "properties": {
+    "School_Names":"PERFORMANCE CONSERVATORY HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9006169,40.8277047 ]
+    },
+    "properties": {
+    "School_Names":"BRONX LATIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8878433,40.8368694 ]
+    },
+    "properties": {
+    "School_Names":"EAST BRONX ACADEMY FOR THE FUTURE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8970754,40.8277551 ]
+    },
+    "properties": {
+    "School_Names":"PEACE AND DIVERSITY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8920828,40.8293118 ]
+    },
+    "properties": {
+    "School_Names":"CROTONA ACADEMY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8845513,40.8440162 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY SCHOOL FOR WILDLIFE CONSERVATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8788494,40.8324641 ]
+    },
+    "properties": {
+    "School_Names":"PAN AMERICAN INTERNATIONAL HIGH SCHOOL AT MONROE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8987342,40.8232858 ]
+    },
+    "properties": {
+    "School_Names":"ARTURO A. SCHOMBURG SATELLITE ACADEMY BRONX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8773433,40.8320496 ]
+    },
+    "properties": {
+    "School_Names":"THE CINEMA SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9005903,40.8274283 ]
+    },
+    "properties": {
+    "School_Names":"BRONX CAREER AND COLLEGE PREPARATORY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8987455,40.8233177 ]
+    },
+    "properties": {
+    "School_Names":"BRONX REGIONAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8907414,40.8363157 ]
+    },
+    "properties": {
+    "School_Names":"BRONX ENVISION ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8787546,40.8320592 ]
+    },
+    "properties": {
+    "School_Names":"THE METROPOLITAN SOUNDVIEW HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8787546,40.8320592 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL OF WORLD CULTURES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8787416,40.8319947 ]
+    },
+    "properties": {
+    "School_Names":"BRONX COALITION COMMUNITY HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8856884,40.8311242 ]
+    },
+    "properties": {
+    "School_Names":"FANNIE LOU HAMER FREEDOM HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8751938,40.8416176 ]
+    },
+    "properties": {
+    "School_Names":"WINGS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8783844,40.8320451 ]
+    },
+    "properties": {
+    "School_Names":"MONROE ACADEMY FOR BUSINESSLAW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8787467,40.831969 ]
+    },
+    "properties": {
+    "School_Names":"MONROE ACADEMY FOR VISUAL ARTS & DESIGN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9759851,40.6969046 ]
+    },
+    "properties": {
+    "School_Names":"DR. SUSAN S. MCKINNEY SECONDARY SCHOOL OF THE ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9140646,40.6698651 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY OF BUSINESS AND COMMUNITY DEVELOPMENT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9846995,40.6975124 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY SCHOOL OF MUSIC AND ART"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9586747,40.6919469 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN COMMUNITY ARTS & MEDIA HIGH SCHOOL (BCAM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9847829,40.6975151 ]
+    },
+    "properties": {
+    "School_Names":"SCIENCE SKILLS CENTER HIGH SCHOOL FOR SCIENCE, TECHNOLOGY AND THE CREATIVE ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9767351,40.6890878 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN TECHNICAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9848666,40.6975179 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN INTERNATIONAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885235,40.6944935 ]
+    },
+    "properties": {
+    "School_Names":"THE URBAN ASSEMBLY SCHOOL FOR LAW AND JUSTICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9619443,40.6785851 ]
+    },
+    "properties": {
+    "School_Names":"ACORN COMMUNITY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9865245,40.6984181 ]
+    },
+    "properties": {
+    "School_Names":"FREEDOM ACADEMY HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885236,40.6946493 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY INSTITUTE OF MATH AND SCIENCE FOR YOUNG WOMEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9475537,40.6846198 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN ACADEMY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9452586,40.6820023 ]
+    },
+    "properties": {
+    "School_Names":"BEDFORD STUYVESANT PREPARATORY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9619541,40.6785573 ]
+    },
+    "properties": {
+    "School_Names":"GOTHAM PROFESSIONAL ARTS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9541584,40.6854484 ]
+    },
+    "properties": {
+    "School_Names":"BEDFORD ACADEMY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9856023,40.6958355 ]
+    },
+    "properties": {
+    "School_Names":"GEORGE WESTINGHOUSE CAREER AND TECHNICAL EDUCATION HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9584849,40.6917732 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN HIGH SCHOOL FOR LEADERSHIP AND COMMUNITY SERVICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.913386,40.8776412 ]
+    },
+    "properties": {
+    "School_Names":"BENJAMIN BANNEKER ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9856835,40.6958473 ]
+    },
+    "properties": {
+    "School_Names":"CITY POLYTECHNIC HIGH SCHOOL OF ENGINEERING, ARCHITECTURE, AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9539756,40.7038726 ]
+    },
+    "properties": {
+    "School_Names":"JUAN MOREL CAMPOS SECONDARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7511941,40.205991 ]
+    },
+    "properties": {
+    "School_Names":"FOUNDATIONS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9440072,40.7097999 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN LATIN SCHOOL, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9441904,40.7097782 ]
+    },
+    "properties": {
+    "School_Names":"THE WILLIAMSBURG HIGH SCHOOL OF ART AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9400499,40.7119673 ]
+    },
+    "properties": {
+    "School_Names":"PROGRESS HIGH SCHOOL FOR PROFESSIONAL CAREERS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9389129,40.7112012 ]
+    },
+    "properties": {
+    "School_Names":"EAST WILLIAMSBURG SCHOLARS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9404664,40.7119031 ]
+    },
+    "properties": {
+    "School_Names":"THE HIGH SCHOOL FOR ENTERPRISE, BUSINESS AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9554013,40.715828 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN PREPARATORY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9553841,40.715844 ]
+    },
+    "properties": {
+    "School_Names":"WILLIAMSBURG HIGH SCHOOL FOR ARCHITECTURE AND DESIGN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9542981,40.7152412 ]
+    },
+    "properties": {
+    "School_Names":"WILLIAMSBURG PREPARATORY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9443861,40.709729 ]
+    },
+    "properties": {
+    "School_Names":"LYONS COMMUNITY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9538965,40.7220162 ]
+    },
+    "properties": {
+    "School_Names":"A-TECH HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.938767,40.704976 ]
+    },
+    "properties": {
+    "School_Names":"YOUNG WOMEN'S LEADERSHIP SCHOOL OF BROOKLYN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9532939,40.7222353 ]
+    },
+    "properties": {
+    "School_Names":"FRANCES PERKINS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9554076,40.7158221 ]
+    },
+    "properties": {
+    "School_Names":"HARRY VAN ARSDALE HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9556504,40.7057218 ]
+    },
+    "properties": {
+    "School_Names":"EL PUENTE ACADEMY FOR PEACE AND JUSTICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0045819,40.6775108 ]
+    },
+    "properties": {
+    "School_Names":"AGNES Y HUMPHREY SCHOOL FOR LEADERSHIP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.989221,40.6900029 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN FRONTIERS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9943356,40.6851261 ]
+    },
+    "properties": {
+    "School_Names":"DIGITAL ARTS AND CINEMA TECHNOLOGY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0018865,40.6795695 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN COLLABORATIVE STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9790954,40.6694848 ]
+    },
+    "properties": {
+    "School_Names":"JOHN JAY HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9788435,40.6694922 ]
+    },
+    "properties": {
+    "School_Names":"JOHN JAY SCHOOL FOR LAW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9788951,40.6694314 ]
+    },
+    "properties": {
+    "School_Names":"CYBERARTS STUDIO ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9790898,40.6695576 ]
+    },
+    "properties": {
+    "School_Names":"PARK SLOPE COLLEGIATE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9929074,40.684855 ]
+    },
+    "properties": {
+    "School_Names":"THE BOERUM HILL SCHOOL FOR INTERNATIONAL STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9907743,40.6851337 ]
+    },
+    "properties": {
+    "School_Names":"COBBLE HILL SCHOOL OF AMERICAN STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.989221,40.6900029 ]
+    },
+    "properties": {
+    "School_Names":"PACIFIC HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9925404,40.6427801 ]
+    },
+    "properties": {
+    "School_Names":"WEST BROOKLYN COMMUNITY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9797142,40.686403 ]
+    },
+    "properties": {
+    "School_Names":"METROPOLITAN CORPORATE ACADEMY HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9797142,40.686403 ]
+    },
+    "properties": {
+    "School_Names":"KHALIL GIBRAN INTERNATIONAL ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9804,40.6838067 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN HIGH SCHOOL OF THE ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0040776,40.6551616 ]
+    },
+    "properties": {
+    "School_Names":"SUNSET PARK HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9788951,40.6694314 ]
+    },
+    "properties": {
+    "School_Names":"MILLENNIUM BROOKLYN HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0141929,40.6778393 ]
+    },
+    "properties": {
+    "School_Names":"SOUTH BROOKLYN COMMUNITY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9367966,40.8242589 ]
+    },
+    "properties": {
+    "School_Names":"FREDERICK DOUGLASS ACADEMY IV SECONDARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9316177,40.6784744 ]
+    },
+    "properties": {
+    "School_Names":"BOYS AND GIRLS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9207644,40.6884532 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN HIGH SCHOOL FOR LAW AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9314917,40.6789269 ]
+    },
+    "properties": {
+    "School_Names":"RESEARCH AND SERVICE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.933163,40.6918403 ]
+    },
+    "properties": {
+    "School_Names":"THE BROOKLYN ACADEMY OF GLOBAL FINANCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9314906,40.6789033 ]
+    },
+    "properties": {
+    "School_Names":"NELSON MANDELA HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9390006,40.6758612 ]
+    },
+    "properties": {
+    "School_Names":"PATHWAYS IN TECHNOLOGY EARLY COLLEGE HIGH SCHOOL (P-TECH)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9582307,40.6492936 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY FOR COLLEGE PREPARATION AND CAREER EXPLORATION: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9582904,40.649564 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY OF HOSPITALITY AND TOURISM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9615536,40.6699636 ]
+    },
+    "properties": {
+    "School_Names":"PROSPECT HEIGHTS HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9582896,40.6495527 ]
+    },
+    "properties": {
+    "School_Names":"HS FOR SCIENCE & MATH AT ERASMUS HALL CAMPUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9582896,40.6495527 ]
+    },
+    "properties": {
+    "School_Names":"HS FOR HUMANITIES AT ERASMUS HALL CAMPUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9430868,40.659109 ]
+    },
+    "properties": {
+    "School_Names":"GEORGE WINGATE HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.739776,40.7337256 ]
+    },
+    "properties": {
+    "School_Names":"HS FOR BUSINESS & TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9551684,40.6696784 ]
+    },
+    "properties": {
+    "School_Names":"WEB DUBOIS ACADEMIC HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9615536,40.6699636 ]
+    },
+    "properties": {
+    "School_Names":"INTERNATIONAL HIGH SCHOOL AT PROSPECT HEIGHTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9611201,40.6699561 ]
+    },
+    "properties": {
+    "School_Names":"THE HIGH SCHOOL FOR GLOBAL CITIZENSHIP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9431943,40.6594626 ]
+    },
+    "properties": {
+    "School_Names":"SCHOOL FOR HUMAN RIGHTS, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9438681,40.6590114 ]
+    },
+    "properties": {
+    "School_Names":"SCHOOL FOR DEMOCRACY AND LEADERSHIP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9582307,40.6492936 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR YOUTH AND COMMUNITY DEVELOPMENT AT ERASMUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9582307,40.6492936 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR SERVICE & LEARNING AT ERASMUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9571945,40.649411 ]
+    },
+    "properties": {
+    "School_Names":"SCIENCE, TECHNOLOGY AND RESEARCH EARLY COLLEGE HIGH SCHOOL AT ERASMUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8533926,40.7377781 ]
+    },
+    "properties": {
+    "School_Names":"INTERNATIONAL ARTS BUSINESS SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9431462,40.6593652 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR PUBLIC SERVICE: HEROES OF TOMORROW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9610286,40.6700407 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN ACADEMY OF SCIENCE AND THE ENVIRONMENT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9610552,40.6700279 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN SCHOOL FOR MUSIC & THEATRE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.924087,40.6663936 ]
+    },
+    "properties": {
+    "School_Names":"BROWNSVILLE ACADEMY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.951213,40.6667613 ]
+    },
+    "properties": {
+    "School_Names":"MEDGAR EVERS COLLEGE PREPARATORY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9617791,40.6694253 ]
+    },
+    "properties": {
+    "School_Names":"CLARA BARTON HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.205913,39.9569111 ]
+    },
+    "properties": {
+    "School_Names":"PAUL ROBESON HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9551684,40.6696784 ]
+    },
+    "properties": {
+    "School_Names":"ASPIRATIONS DIPLOMA PLUS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9431457,40.6590347 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN INSTITUTE FOR LIBERAL ARTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9391928,40.6759187 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY FOR HEALTH CAREERS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9223091,40.6483665 ]
+    },
+    "properties": {
+    "School_Names":"SAMUEL J TILDEN HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8987798,40.640443 ]
+    },
+    "properties": {
+    "School_Names":"CANARSIE HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9169685,40.6336447 ]
+    },
+    "properties": {
+    "School_Names":"SOUTH SHORE HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9227101,40.6479027 ]
+    },
+    "properties": {
+    "School_Names":"IT TAKES A VILLAGE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9173504,40.6337812 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN COMMUNITY HIGH SCHOOL FOR EXCELLENCE AND EQUITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9175256,40.6330748 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN THEATRE ARTS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9223137,40.6484092 ]
+    },
+    "properties": {
+    "School_Names":"KURT HAHN EXPEDITIONARY LEARNING SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9173831,40.6335601 ]
+    },
+    "properties": {
+    "School_Names":"VICTORY COLLEGIATE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9173518,40.6334402 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN BRIDGE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9287567,40.6586374 ]
+    },
+    "properties": {
+    "School_Names":"ARTS & MEDIA PREPARATORY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8979655,40.6405565 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR INNOVATION IN ADVERTISING AND MEDIA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9223391,40.6480377 ]
+    },
+    "properties": {
+    "School_Names":"CULTURAL ACADEMY FOR THE ARTS AND SCIENCES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8979168,40.6407472 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR MEDICAL PROFESSIONS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8982792,40.6460464 ]
+    },
+    "properties": {
+    "School_Names":"OLYMPUS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9171504,40.6331524 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY FOR CONSERVATION AND THE ENVIRONMENT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8984517,40.640423 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ACTION ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9206428,40.6597946 ]
+    },
+    "properties": {
+    "School_Names":"EAST BROOKLYN COMMUNITY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8742544,40.6573631 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY FOR YOUNG WRITERS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8863138,40.6610129 ]
+    },
+    "properties": {
+    "School_Names":"EAST NEW YORK FAMILY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8689912,40.6928503 ]
+    },
+    "properties": {
+    "School_Names":"FRANKLIN K LANE HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8741383,40.6572071 ]
+    },
+    "properties": {
+    "School_Names":"SPRING CREEK COMMUNITY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8948203,40.6669804 ]
+    },
+    "properties": {
+    "School_Names":"THOMAS JEFFERSON HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8948185,40.6669734 ]
+    },
+    "properties": {
+    "School_Names":"FDNY - CAPTAIN VERNON A. RICHARD HIGH SCHOOL FOR FIRE AND LIFE SAFETY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.894781,40.6668279 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR CIVIL RIGHTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8948041,40.6669176 ]
+    },
+    "properties": {
+    "School_Names":"PERFORMING ARTS AND TECHNOLOGY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8948091,40.6669372 ]
+    },
+    "properties": {
+    "School_Names":"WORLD ACADEMY FOR TOTAL COMMUNITY HEALTH HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8690682,40.6930052 ]
+    },
+    "properties": {
+    "School_Names":"MULTICULTURAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8752841,40.6787847 ]
+    },
+    "properties": {
+    "School_Names":"TRANSIT TECH CAREER AND TECHNICAL EDUCATION HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8689912,40.6928503 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY OF INNOVATIVE TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8689912,40.6928503 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN LAB SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8690682,40.6930052 ]
+    },
+    "properties": {
+    "School_Names":"CYPRESS HILLS COLLEGIATE PREPARATORY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8961578,40.6738562 ]
+    },
+    "properties": {
+    "School_Names":"W. H. MAXWELL CAREER AND TECHNICAL EDUCATION HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8746657,40.6700476 ]
+    },
+    "properties": {
+    "School_Names":"SCHOOL FOR CLASSICS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8690232,40.6929603 ]
+    },
+    "properties": {
+    "School_Names":"THE URBAN ASSEMBLY SCHOOL FOR COLLABORATIVE HEALTHCARE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8854282,40.6598567 ]
+    },
+    "properties": {
+    "School_Names":"THE EAST NEW YORK ARTS AND CIVICS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0031056,40.6132201 ]
+    },
+    "properties": {
+    "School_Names":"NEW UTRECHT HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0234028,40.6368194 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL OF TELECOMMUNICATION ARTS AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0401285,40.6269932 ]
+    },
+    "properties": {
+    "School_Names":"FORT HAMILTON HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9822429,40.6210904 ]
+    },
+    "properties": {
+    "School_Names":"FRANKLIN DELANO ROOSEVELT HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9819245,40.634825 ]
+    },
+    "properties": {
+    "School_Names":"URBAN ASSEMBLY SCHOOL FOR LEADERSHIP AND EMPOWERMENT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9857546,40.594005 ]
+    },
+    "properties": {
+    "School_Names":"INTERNATIONAL HIGH SCHOOL AT LAFAYETTE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9722116,40.5827409 ]
+    },
+    "properties": {
+    "School_Names":"RACHEL CARSON HIGH SCHOOL FOR COASTAL STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9857203,40.5939843 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL OF SPORTS MANAGEMENT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9857546,40.594005 ]
+    },
+    "properties": {
+    "School_Names":"LAFAYETTE HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9685382,40.5825759 ]
+    },
+    "properties": {
+    "School_Names":"ABRAHAM LINCOLN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9857595,40.5940079 ]
+    },
+    "properties": {
+    "School_Names":"KINGSBOROUGH EARLY COLLEGE SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9591523,40.6198508 ]
+    },
+    "properties": {
+    "School_Names":"EDWARD R. MURROW HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9824892,40.5873209 ]
+    },
+    "properties": {
+    "School_Names":"JOHN DEWEY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9858091,40.5940376 ]
+    },
+    "properties": {
+    "School_Names":"LIFE ACADEMY HIGH SCHOOL FOR FILM AND MUSIC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9857203,40.5939843 ]
+    },
+    "properties": {
+    "School_Names":"LEADERS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9637081,40.5827695 ]
+    },
+    "properties": {
+    "School_Names":"WILLIAM E. GRADY CAREER AND TECHNICAL EDUCATION HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9951396,40.6047643 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN STUDIO SECONDARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9858464,40.5771312 ]
+    },
+    "properties": {
+    "School_Names":"LIBERATION DIPLOMA PLUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9525988,40.6327995 ]
+    },
+    "properties": {
+    "School_Names":"MIDWOOD HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9476865,40.6104633 ]
+    },
+    "properties": {
+    "School_Names":"JAMES MADISON HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.936978,40.5937234 ]
+    },
+    "properties": {
+    "School_Names":"SHEEPSHEAD BAY HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9351779,40.5804143 ]
+    },
+    "properties": {
+    "School_Names":"LEON M. GOLDSTEIN HIGH SCHOOL FOR THE SCIENCES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97194,40.6492165 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN COLLEGE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9843369,40.7326871 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN COMPREHENSIVE NIGHT HIG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9367824,40.5934398 ]
+    },
+    "properties": {
+    "School_Names":"ORIGINS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9367893,40.5934143 ]
+    },
+    "properties": {
+    "School_Names":"PROFESSIONAL PATHWAYS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9134628,40.6742727 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN COLLEGIATE: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9120493,40.6654401 ]
+    },
+    "properties": {
+    "School_Names":"FREDERICK DOUGLASS ACADEMY VII HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9064491,40.6556945 ]
+    },
+    "properties": {
+    "School_Names":"BROOKLYN DEMOCRACY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9156193,40.6779005 ]
+    },
+    "properties": {
+    "School_Names":"EAGLE ACADEMY FOR YOUNG MEN II"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.929277,40.6947168 ]
+    },
+    "properties": {
+    "School_Names":"EBCENY HS FOR PUBLIC SAFETY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9069276,40.6555024 ]
+    },
+    "properties": {
+    "School_Names":"METROPOLITAN DIPLOMA PLUS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9118177,40.6655376 ]
+    },
+    "properties": {
+    "School_Names":"TEACHERS PREPARATORY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8739962,40.7408346 ]
+    },
+    "properties": {
+    "School_Names":"INTERNATIONAL HIGH SCHOOL FOR HEALTH SCIENCES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9369417,40.7445853 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY OF FINANCE AND ENTERPRISE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9378414,40.7447908 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL OF APPLIED COMMUNICATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8714707,40.7434324 ]
+    },
+    "properties": {
+    "School_Names":"CIVIC LEADERSHIP ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8708705,40.7436375 ]
+    },
+    "properties": {
+    "School_Names":"PAN AMERICAN INTERNATIONAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9378807,40.7445949 ]
+    },
+    "properties": {
+    "School_Names":"BARD HIGH SCHOOL EARLY COLLEGE QUEENS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8739663,40.7411032 ]
+    },
+    "properties": {
+    "School_Names":"NEWTOWN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.908879,40.7114458 ]
+    },
+    "properties": {
+    "School_Names":"GROVER CLEVELAND HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9333269,40.7433295 ]
+    },
+    "properties": {
+    "School_Names":"MIDDLE COLLEGE HIGH SCHOOL AT LAGUARDIA COMMUNITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9350125,40.7439998 ]
+    },
+    "properties": {
+    "School_Names":"INTERNATIONAL HIGH SCHOOL AT LAGUARDIA COMMUNITY COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8533926,40.7377781 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR ARTS AND BUSINESS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9368968,40.7414926 ]
+    },
+    "properties": {
+    "School_Names":"ROBERT F. WAGNER, JR. SECONDARY SCHOOL FOR ARTS AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8876918,40.7291993 ]
+    },
+    "properties": {
+    "School_Names":"MASPETH HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9279902,40.7419766 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS TECHNICAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9292176,40.743581 ]
+    },
+    "properties": {
+    "School_Names":"AVIATION CAREER & TECHNICAL EDUCATION HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8714268,40.7432205 ]
+    },
+    "properties": {
+    "School_Names":"VOYAGES PREPARATORY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8268537,40.7650103 ]
+    },
+    "properties": {
+    "School_Names":"VERITAS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8277083,40.7647247 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS HIGH SCHOOL FOR LANGUAGE STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8108642,40.7246166 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS SCHOOL OF INQUIRY, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8180648,40.7600404 ]
+    },
+    "properties": {
+    "School_Names":"FLUSHING INTERNATIONAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8214862,40.7492327 ]
+    },
+    "properties": {
+    "School_Names":"EAST-WEST SCHOOL OF INTERNATIONAL STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7894813,40.7653711 ]
+    },
+    "properties": {
+    "School_Names":"WORLD JOURNALISM PREPARATORY: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8239843,40.7385387 ]
+    },
+    "properties": {
+    "School_Names":"JOHN BOWNE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8263921,40.7648631 ]
+    },
+    "properties": {
+    "School_Names":"FLUSHING HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8216156,40.7349463 ]
+    },
+    "properties": {
+    "School_Names":"TOWNSEND HARRIS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8285641,40.7655562 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS ACADEMY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8113253,40.7253501 ]
+    },
+    "properties": {
+    "School_Names":"ROBERT F. KENNEDY COMMUNITY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8196472,40.7205612 ]
+    },
+    "properties": {
+    "School_Names":"NORTH QUEENS COMMUNITY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.739776,40.7337256 ]
+    },
+    "properties": {
+    "School_Names":"BUSINESS TECHNOLOGY EARLY COLLEGE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.756443,40.7517895 ]
+    },
+    "properties": {
+    "School_Names":"BENJAMIN N. CARDOZO HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7950066,40.7408835 ]
+    },
+    "properties": {
+    "School_Names":"FRANCIS LEWIS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7391435,40.7336309 ]
+    },
+    "properties": {
+    "School_Names":"MARTIN VAN BUREN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7808071,40.771482 ]
+    },
+    "properties": {
+    "School_Names":"BAYSIDE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.728799,40.744121 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS HIGH SCHOOL OF TEACHING, LIBERAL ARTS AND THE SCIENCES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.763979,40.601532 ]
+    },
+    "properties": {
+    "School_Names":"FREDERICK DOUGLASS ACADEMY VI HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7832739,40.6750189 ]
+    },
+    "properties": {
+    "School_Names":"VOYAGES PREP - SOUTH QUEENS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8238186,40.5863205 ]
+    },
+    "properties": {
+    "School_Names":"CHANNEL VIEW SCHOOL FOR RESEARCH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.763979,40.601532 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS HIGH SCHOOL FOR INFORMATION, RESEARCH, AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8456739,40.671035 ]
+    },
+    "properties": {
+    "School_Names":"ROBERT H. GODDARD HIGH SCHOOL OF COMMUNICATION ARTS AND TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7639639,40.6015311 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY OF MEDICAL TECHNOLOGY: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8163654,40.67546 ]
+    },
+    "properties": {
+    "School_Names":"EPIC HIGH SCHOOL - SOUTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8251698,40.5842665 ]
+    },
+    "properties": {
+    "School_Names":"SCHOLARS' ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8235926,40.5865621 ]
+    },
+    "properties": {
+    "School_Names":"ROCKAWAY PARK HIGH SCHOOL FOR ENVIRONMENTAL SUSTAINABILITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8291229,40.692682 ]
+    },
+    "properties": {
+    "School_Names":"EPIC HIGH SCHOOL - NORTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8238186,40.5863205 ]
+    },
+    "properties": {
+    "School_Names":"ROCKAWAY COLLEGIATE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7832739,40.6750189 ]
+    },
+    "properties": {
+    "School_Names":"AUGUST MARTIN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8226562,40.5863647 ]
+    },
+    "properties": {
+    "School_Names":"BEACH CHANNEL HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7640569,40.6021789 ]
+    },
+    "properties": {
+    "School_Names":"FAR ROCKAWAY HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8340733,40.6949628 ]
+    },
+    "properties": {
+    "School_Names":"RICHMOND HILL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8369699,40.6786025 ]
+    },
+    "properties": {
+    "School_Names":"JOHN ADAMS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8412058,40.6892334 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR CONSTRUCTION TRADES, ENGINEERING AND ARCHITECTURE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8561537,40.7088576 ]
+    },
+    "properties": {
+    "School_Names":"METROPOLITAN EXPEDITIONARY LEARNING SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.786765,40.6975599 ]
+    },
+    "properties": {
+    "School_Names":"YORK EARLY COLLEGE ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7984411,40.7143286 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS COLLEGIATE: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7979482,40.7143356 ]
+    },
+    "properties": {
+    "School_Names":"HILLSIDE ARTS & LETTERS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7984411,40.7143286 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR COMMUNITY LEADERSHIP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.799646,40.708351 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS SATELLITE HIGH SCHOOL FOR OPPORTUNITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7982524,40.7144332 ]
+    },
+    "properties": {
+    "School_Names":"JAMAICA GATEWAY TO THE SCIENCES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8449259,40.7297115 ]
+    },
+    "properties": {
+    "School_Names":"FOREST HILLS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7982524,40.7144332 ]
+    },
+    "properties": {
+    "School_Names":"JAMAICA HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8023275,40.7093971 ]
+    },
+    "properties": {
+    "School_Names":"HILLCREST HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7983076,40.7162714 ]
+    },
+    "properties": {
+    "School_Names":"THOMAS A. EDISON CAREER AND TECHNICAL EDUCATION HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8058922,40.7184027 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS GATEWAY TO HEALTH SCIENCES SECONDARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8558,40.708753 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS METROPOLITAN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7983153,40.7009286 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS HIGH SCHOOL FOR THE SCIENCES AT YORK COLLEGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7835331,40.6860509 ]
+    },
+    "properties": {
+    "School_Names":"HIGH SCHOOL FOR LAW ENFORCEMENT AND PUBLIC SAFETY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8041615,40.708341 ]
+    },
+    "properties": {
+    "School_Names":"YOUNG WOMEN'S LEADERSHIP SCHOOL, QUEENS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7460908,40.6982373 ]
+    },
+    "properties": {
+    "School_Names":"INSTITUTE FOR HEALTH PROFESSIONS AT CAMBRIA HEIGHTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7574605,40.6676524 ]
+    },
+    "properties": {
+    "School_Names":"QUEENS PREPARATORY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7529797,40.7054848 ]
+    },
+    "properties": {
+    "School_Names":"PATHWAYS COLLEGE PREPARATORY SCHOOL: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7579342,40.6680413 ]
+    },
+    "properties": {
+    "School_Names":"EXCELSIOR PREPARATORY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7576065,40.6675163 ]
+    },
+    "properties": {
+    "School_Names":"GEORGE WASHINGTON CARVER HIGH SCHOOL FOR THE SCIENCES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7581742,40.6675872 ]
+    },
+    "properties": {
+    "School_Names":"PREPARATORY ACADEMY FOR WRITERS: A COLLEGE BOARD SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7398755,40.6979432 ]
+    },
+    "properties": {
+    "School_Names":"BENJAMIN FRANKLIN HIGH SCHOOL FOR FINANCE & INFORMATION TECHNOLOGY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7710829,40.7116415 ]
+    },
+    "properties": {
+    "School_Names":"CAMBRIA HEIGHTS ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.897176,40.845264 ]
+    },
+    "properties": {
+    "School_Names":"EAGLE ACADEMY FOR YOUNG MEN III"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7574184,40.6677176 ]
+    },
+    "properties": {
+    "School_Names":"SPRINGFIELD GARDENS HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7464863,40.6977258 ]
+    },
+    "properties": {
+    "School_Names":"MATHEMATICS, SCIENCE RESEARCH AND TECHNOLOGY MAGNET HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.74615,40.698328 ]
+    },
+    "properties": {
+    "School_Names":"LAW GOVERNMENT AND COMMUNITY SERVICE HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.74615,40.698328 ]
+    },
+    "properties": {
+    "School_Names":"BUSINESS COMPUTER APPLICATIONS & ENTREPRENEURSHIP HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7452697,40.6984853 ]
+    },
+    "properties": {
+    "School_Names":"HUMANITIES & ARTS MAGNET HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9328613,40.7566283 ]
+    },
+    "properties": {
+    "School_Names":"ENERGY TECH HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9241922,40.7711886 ]
+    },
+    "properties": {
+    "School_Names":"YOUNG WOMEN'S LEADERSHIP SCHOOL, ASTORIA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9595368,40.7426929 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY FOR CAREERS IN TELEVISION AND FILM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9103778,40.7576896 ]
+    },
+    "properties": {
+    "School_Names":"WILLIAM CULLEN BRYANT HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9329135,40.7657451 ]
+    },
+    "properties": {
+    "School_Names":"LONG ISLAND CITY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9251673,40.7560998 ]
+    },
+    "properties": {
+    "School_Names":"FRANK SINATRA SCHOOL OF THE ARTS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9466603,40.748572 ]
+    },
+    "properties": {
+    "School_Names":"INFORMATION TECHNOLOGY HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9370961,40.7514246 ]
+    },
+    "properties": {
+    "School_Names":"NEWCOMERS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9374681,40.7512494 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY OF AMERICAN STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9269738,40.7551566 ]
+    },
+    "properties": {
+    "School_Names":"BACCALAUREATE SCHOOL FOR GLOBAL EDUCATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0828391,40.6241218 ]
+    },
+    "properties": {
+    "School_Names":"THE EAGLE ACADEMY FOR YOUNG MEN OF STATEN ISLAND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1585989,40.5819258 ]
+    },
+    "properties": {
+    "School_Names":"CSI HIGH SCHOOL FOR INTERNATIONAL STUDIES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1588897,40.5817828 ]
+    },
+    "properties": {
+    "School_Names":"GAYNOR MCCOWN EXPEDITIONARY LEARNING SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1050929,40.608634 ]
+    },
+    "properties": {
+    "School_Names":"THE MICHAEL J. PETRIDES SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1067626,40.5699022 ]
+    },
+    "properties": {
+    "School_Names":"NEW DORP HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.142217,40.6351288 ]
+    },
+    "properties": {
+    "School_Names":"PORT RICHMOND HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0821734,40.6453915 ]
+    },
+    "properties": {
+    "School_Names":"CURTIS HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1921115,40.5279412 ]
+    },
+    "properties": {
+    "School_Names":"TOTTENVILLE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1249136,40.5974853 ]
+    },
+    "properties": {
+    "School_Names":"SUSAN E. WAGNER HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0867844,40.6108168 ]
+    },
+    "properties": {
+    "School_Names":"CONCORD HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0795046,40.6426524 ]
+    },
+    "properties": {
+    "School_Names":"RALPH R. MCKEE CAREER AND TECHNICAL EDUCATION HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1170347,40.5679227 ]
+    },
+    "properties": {
+    "School_Names":"STATEN ISLAND TECHNICAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9114706,40.6971081 ]
+    },
+    "properties": {
+    "School_Names":"THE BROOKLYN SCHOOL FOR MATH AND RESEARCH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9117456,40.6970064 ]
+    },
+    "properties": {
+    "School_Names":"ACADEMY FOR EXCELLENCE IN LEADERSHIP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9153045,40.6953944 ]
+    },
+    "properties": {
+    "School_Names":"BUSHWICK HS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.929277,40.6947168 ]
+    },
+    "properties": {
+    "School_Names":"EBC HIGH SCHOOL FOR PUBLIC SERVICE - BUSHWICK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9111938,40.6968994 ]
+    },
+    "properties": {
+    "School_Names":"THE BROOKLYN SCHOOL FOR SOCIAL JUSTICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9110582,40.6972803 ]
+    },
+    "properties": {
+    "School_Names":"THE ACADEMY OF URBAN PLANNING AND ENGINEERING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9131033,40.6975923 ]
+    },
+    "properties": {
+    "School_Names":"ALL CITY LEADERSHIP SECONDARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9274444,40.6953387 ]
+    },
+    "properties": {
+    "School_Names":"BUSHWICK LEADERS HIGH SCHOOL FOR ACADEMIC EXCELLENCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9153045,40.6953944 ]
+    },
+    "properties": {
+    "School_Names":"BUSHWICK COMMUNITY HIGH SCHOOL"
+    }
+  }
+]
+}
