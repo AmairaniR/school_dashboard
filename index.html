@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>NYC Public School Classification Dashboard</title>
 
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
@@ -28,24 +28,28 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
+    <h1>NYC Public School Classification Dashboard</h1>
+    <p>Introductory info</p>
+
     <!-- MAP div -->
-    <!-- <div id="mapid"></div> -->
+    <div id="mapid"></div>
 
     <!-- Chart div -->
     <div class="row">
-        <div class="col-md-2">
+        <div class="col-md-12">
           <div class="well">
-            <h5>School Name and Year</h5>
             <!-- <select id="selDataset"></select> -->
+            <h5>School Name and Year</h5>
+            <p>Instructions for navigating charts</p>
             <select id="selDataset" onchange="optionChanged(this.value)"></select>
           </div>
         </div>
     </div>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-5">
           <div id="bar"></div>
         </div>
-        <div class="col-md-8">
+        <div class="col-md-7">
           <div id="piecharts"></div>
         </div>
     </div>
