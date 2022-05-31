@@ -29,23 +29,24 @@
 </head>
 <body>
     <h1>NYC Public School Classification Dashboard</h1>
-    <p>Introductory info</p>
+    <h5>Map of NYC Public Schools | Cohort Years 2001-2017</h5>
+    <p>Click on a location marker on the map below to see the name and location of NYC public school.</p>
 
     <!-- MAP div -->
     <div id="mapid"></div>
 
     <!-- Chart div -->
-    <div class="row">
+    <div class="row" id="dropdown">
         <div class="col-md-12">
           <div class="well">
             <!-- <select id="selDataset"></select> -->
-            <h5>School Name and Year</h5>
-            <p>Instructions for navigating charts</p>
+            <h5>School Name and Cohort Year Classification and Demographic Information</h5>
+            <p>Click on the dropdown menu below and select a NYC public school and its cohort year to see its classification and student demographic information. The classification is based on a KMeans Unsupervised Machine Learning Model and is represented in the bar chart on the left. The student demogrpahic information can be seen through the pie charts displayed on the right and can be read from left to right as: Ethniticies, Gender, Economic Advantage, and Students with Disabilties.</p>
             <select id="selDataset" onchange="optionChanged(this.value)"></select>
           </div>
         </div>
     </div>
-    <div class="row">
+    <div class="row" id="charts">
         <div class="col-md-5">
           <div id="bar"></div>
         </div>

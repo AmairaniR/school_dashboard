@@ -8,7 +8,7 @@ console.log("working");
 let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
 	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
 	maxZoom: 18,
-	accessToken: API_KEY
+	accessToken: "pk.eyJ1IjoiYW1haXJhbmlyIiwiYSI6ImNsMHI4cHI4NTAxNGYzZG9weGVheW5lZWMifQ.AXRxYupAFi-9TIDCGcwTZw"
 });
 
 // Map object with center, zoom level and default layer.
@@ -234,7 +234,7 @@ function buildCharts(schoolName) {
     }];
 
     var layout = {
-      title: "Student Demographic Info Per School",
+      title: "Student Demographic Information Per School",
       height: 400,
       width: 500,
       grid: {rows: 2, columns: 2}
