@@ -18,7 +18,7 @@ let map = L.map('mapid', {
 	layers: [streets]
 });
 
-d3.json("school_locations.geojson").then(function(data) {
+d3.json("school_locations_and_demographic_info.geojson").then(function(data) {
   console.log(data);
     // Create GeoJSON layer
     L.geoJson(data, {
@@ -28,7 +28,22 @@ d3.json("school_locations.geojson").then(function(data) {
         },
       // Create popup for each circleMarker to display school name, cohort year, and location
       onEachFeature: function(feature, layer) {
-      layer.bindPopup("School Name: " + feature.properties.School_Names);
+      layer.bindPopup("School Name: " + feature.properties.School_Names + "<br> Percent Grads: " + feature.properties.Percent_Grads + "%"
+      + "<br> Percent Dropout: " + feature.properties.Percent_Dropout + "%"
+      + "<br> Percent Passing Regents: " + feature.properties.Percent_Passing_Regents + "%"
+      + "<br> Percent Passing Advanced Regents: " + feature.properties.Percent_Advanced_Regents + "%"
+      + "<br> Percent Female: " + feature.properties.Percent_Female_Cohort + "%"
+      + "<br> Percent Male: " + feature.properties.Percent_Male_Cohort + "%"
+      + "<br> Percent Asian: " + feature.properties.Percent_Asian_Cohort + "%"
+      + "<br> Percent White: " + feature.properties.Percent_White_Cohort + "%"
+      + "<br> Percent Black: " + feature.properties.Percent_Black_Cohort + "%"
+      + "<br> Percent Hispanic: " + feature.properties.Percent_Hispanic_Cohort + "%"
+      + "<br> Percent Native American: " + feature.properties.Percent_Native_American_Cohort + "%"
+      + "<br> Percent Multi-Racial: " + feature.properties.Percent_Multi_Racial_Cohort + "%"
+      + "<br> Percent Econ Disadv: " + feature.properties.Percent_Econ_Disadv_Cohort + "%"
+      + "<br> Percent Not Econ Disadv: " + feature.properties.Percent_Not_Econ_Disadv_Cohort + "%"
+      + "<br> Percent SWD: " + feature.properties.Percent_SWD_Cohort + "%"
+      + "<br> Percent Not SWD: " + feature.properties.Percent_Not_SWD_Cohort + "%");
     }
   }).addTo(map);
 });
@@ -41,7 +56,7 @@ function init() {
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
 
-  d3.json("all_data_with_classes_copy.json").then((data) => {
+  d3.json("all_data_with_classes.json").then((data) => {
 
     var schoolName = []
 
@@ -59,7 +74,7 @@ function init() {
     });
 
     // Use the first sample from the list to build the initial plots
-    var firstSchool = schoolName[0];
+    var firstSchool = schoolName[1];
     buildCharts(firstSchool);
   });
 };
@@ -78,7 +93,7 @@ function optionChanged(newSchool) {
 function buildCharts(schoolName) {
 
   // 2. Use d3.json to load and retrieve the json file 
-  d3.json("all_data_with_classes_copy.json", function (data) { 
+  d3.json("all_data_with_classes.json", function (data) { 
     
     var schoolsArray = data['schools'];
     // Variable that filters the schools for the object with the desired school name.
@@ -110,10 +125,10 @@ function buildCharts(schoolName) {
 
     function classColor () {
       if (mlclass === 2.0) {
-        return 'green';
+        return 'blue';
       }
       if (mlclass === 1.0) {
-        return 'blue';
+        return 'green';
       }
       else {
         return 'red';
@@ -122,13 +137,13 @@ function buildCharts(schoolName) {
 
     function legend() {
       if (mlclass === 2.0){
-        return 'Class 2'
+        return 'Average Achievment'
       }
       if (mlclass === 1.0) {
-        return 'Class 1';
+        return 'Highest Achievment';
       }
       else {
-        return 'Class 0';
+        return 'Lowest Achievment';
       }
     }
 
@@ -167,7 +182,7 @@ function buildCharts(schoolName) {
     
     var ultimiateColors = [
       ['rgb(25,25,112)', 'rgb(0,0,205)', 'rgb(0,100,0)', 'rgb(34,139,34)'],
-      ['rgb(165,42,42)', 'rgb(210,105,30)'],
+      ['rgb(164, 61, 164)', 'rgb(91, 64, 160)'],
       ['rgb(255,215,0)', 'rgb(255,140,0)'],
       ['rgb(255,0,0)', 'rgb(139,0,0)']
     ];
