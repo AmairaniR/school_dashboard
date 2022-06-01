@@ -128,10 +128,10 @@ function buildCharts(schoolName) {
         return 'blue';
       }
       if (mlclass === 1.0) {
-        return 'green';
+        return 'red';
       }
       else {
-        return 'red';
+        return 'green';
       }
     }
 
@@ -140,10 +140,10 @@ function buildCharts(schoolName) {
         return 'Average Achievment'
       }
       if (mlclass === 1.0) {
-        return 'Highest Achievment';
+        return 'Lowest Achievment';
       }
       else {
-        return 'Lowest Achievment';
+        return 'Highest Achievment';
       }
     }
 
