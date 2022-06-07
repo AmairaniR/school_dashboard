@@ -19,7 +19,17 @@ Image 3
 Image 3 shows how the dashboard changes when a different school or year is selected. Not only do the values of the bar chart and pie charts change, but the color of the bar chart changes depending on how it was classified from the unsupervised machine learning model. 
 
 ##Technologies Used
--HTML 
--JavaScript
--D3
--Google's Find Place API 
+
+-HTML to build the site
+
+-CSS to cutosmize the site
+
+-JavaScript to put the code together
+
+-Ploty for the charts
+
+-D3 for the dropdpwn menu
+
+-Google's Find Place API to get the school locations
+
+-Leaflet and Mapbox for the map 
