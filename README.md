@@ -1,6 +1,6 @@
 #NYC Public School Classification Dashboard 
 
-This dashboard is part of a larger project that attempts to classify NYC public school using and unsupervied machine learning model. The full github repository can be found [here](https://github.com/es2681/student_analysis_project). 
+This dashboard is part of a larger project that attempts to classify NYC public school using an unsupervied machine learning model. The full github repository can be found [here](https://github.com/es2681/student_analysis_project). 
 
 ##[Link to Dashboard](https://amairanir.github.io/school_dashboard/)
 
